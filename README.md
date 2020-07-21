@@ -1,11 +1,9 @@
 # team-project-1-news-
+<br>
+<br>
+<br>
 
-Palestine<br>
-An-Najah National University<br>
-Faculty of Information Technology<br>
-Computerized Information Systems.
-<br>
-<br>
+
 # LNN (Lightning News Network)
  
   ## Students :
