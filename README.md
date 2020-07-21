@@ -21,10 +21,23 @@ Dr. Abd-Alrzaq Al-Natsheh
 <br>
 <br>
 # Contents:
-
-
-
-
+1.**Table of content :**----------------------------------------------------------------------------------0<br>
+2.**Describing the purpose of the site :**---------------------------------------------------------------2<br>
+2.1 Description<br>
+2.2Introduction<br>
+3.**The Audience :**------------------------------------------------------------------------------------4<br>
+4.**Competitive analysis :**-----------------------------------------------------------------------------6<br>
+4.1 Introduction<br>
+4.2 Our Competitors<br>
+4.3 Overview (Preliminary Information)<br>
+4.4 Target Customers<br>
+4.5 Marketing Strategy<br>
+4.5.1 Social Media<br>
+4.5.2Interact On Social Media<br>
+4.6 Website<br>
+4.6.1 Content analysis<br>
+4.7 Strength And weakness<br>
+5.**Web Design :** -------------------------------------------------------------------------------------8<br>
 
 
 # Desctiption:
@@ -218,6 +231,7 @@ This channel is a branch of sky news UK channel Its specialist to the Arab world
  
  <img width="300" height="400" src="page 1.jpg"> | <img width="300" height="200" src="page 2.JPG"> | <img width="300" height="400" src="page 3.jpg">
  <img width="300" height="400" src="page 4.jpg"> | <img width="300" height="400" src="page 5.jpg"> | <img width="300" height="400" src="page 6.jpg">
+
 
 [1](#sdfootnote1anc)[https://www.statista.com/statistics/229984/readers-of-the-new-york-times-daily-edition-usa/](https://www.statista.com/statistics/229984/readers-of-the-new-york-times-daily-edition-usa/)
 
