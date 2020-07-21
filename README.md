@@ -213,6 +213,11 @@ It contains many channels (Al Jazeera News, English Island, Aljazeera live, Al J
 This channel is a branch of sky news UK channel Its specialist to the Arab world | Given the political situation between Qatar and the United Arab Emirates, this reduces competition with our website, which will neutralize the news.
  Great interaction on social media platforms. 
  A large number of followers on social media platforms. 
+ 
+ # Web Design
+ 
+ <img width="300" height="400" src="page 1.jpg"> | <img width="300" height="200" src="page 2.JPG"> | <img width="300" height="400" src="page 3.jpg">
+ <img width="300" height="400" src="page 4.jpg"> | <img width="300" height="400" src="page 5.jpg"> | <img width="300" height="400" src="page 6.jpg">
 
 [1](#sdfootnote1anc)[https://www.statista.com/statistics/229984/readers-of-the-new-york-times-daily-edition-usa/](https://www.statista.com/statistics/229984/readers-of-the-new-york-times-daily-edition-usa/)
 
